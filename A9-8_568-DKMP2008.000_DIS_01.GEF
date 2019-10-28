@@ -1,0 +1,84 @@
+#GEFID= 1, 1, 0
+#FILEOWNER= VALKF   
+#FILEDATE= 2011,06,09
+#PROJECTID= CPT, 7010-0439-000, -
+#PARENT= A9-8_568-DKMP2008.000.gef, 6.33, Sondeerlengte, 1
+#COLUMN= 3
+#COLUMNINFO= 1, s, Tijd, 12
+#COLUMNINFO= 2, MPa, Conusweerstand qc, 2
+#COLUMNINFO= 3, MPa, Waterspanning u1, 5
+#ANALYSISTEXT= 130, H:\CPTDATA\7010-0439-000\GAASPERDAMMERTUNNEL\A9-8.568-DKMP2008.000, oorspronkelijke UNICAS datafile
+#ANALYSISTEXT= 131, UNIPLOT    05.16.nl  , conversie programma
+#COMPANYID= Fugro Ingenieursbureau B.V., NL005621409B08, 31
+#DATAFORMAT= ASCII
+#DATATYPE= REAL8
+#COLUMNVOID= 1, -99999.000
+#COLUMNVOID= 2, -99999.000
+#COLUMNVOID= 3, -99999.00000
+#LASTSCAN= 35
+#XYID= 31000, 126993.83, 480213.16,  0.03,  0.03
+#ZID= 31000,    1.79,  0.03
+#MEASUREMENTTEXT= 1, RWS NH, opdrachtgever
+#MEASUREMENTTEXT= 2, SAA DEELPROJECT TUNNELS A9 - GAASPERDAMMERTUNNEL, projectnaam
+#MEASUREMENTTEXT= 3, AMSTERDAM, plaatsnaam
+#MEASUREMENTTEXT= 4, F7.5CKE2HAW1/B-1701-1010, conus type en serienummer
+#MEASUREMENTTEXT= 5, REO-48/AVS/VV, sondeerapparaat/operator
+#MEASUREMENTTEXT= 6, NEN 5140 klasse  2, gevolgde norm
+#MEASUREMENTTEXT= 9, maaiveld, vast horizontaal vlak
+#MEASUREMENTVAR= 1, 1500, mm2, Nom. opp. conuspunt
+#MEASUREMENTVAR= 2, 19956, mm2, Nom. opp. wrijvingsmantel
+#MEASUREMENTVAR= 3, 0.58, -, Netto oppervlaktequotient van de conuspunt
+#MEASUREMENTVAR= 4, 1.00, -, Netto oppervlaktequotient van de kleefmantel
+#MEASUREMENTVAR= 5, 138, mm, Afstand conus tot midden kleefmantel
+#MEASUREMENTVAR= 12, 0, -, electrische sondering
+#MEASUREMENTVAR= 13, 2.00, m, voorgegraven diepte
+#MEASUREMENTVAR= 20,  -0.016, MPa, nulmeting conus voor sondering
+#MEASUREMENTVAR= 21,  14.487, MPa, nulmeting conus na sondering
+#MEASUREMENTVAR= 22,   0.003, MPa, nulmeting wrijving voor sondering
+#MEASUREMENTVAR= 23,   0.221, MPa, nulmeting wrijving na sondering
+#MEASUREMENTVAR= 24,  -0.002, MPa, nulmeting WSM u1 voor sondering
+#MEASUREMENTVAR= 25,   0.342, MPa, nulmeting WSM u1 na sondering
+#MEASUREMENTVAR= 30,  -0.1, graden, nulmeting helling voor sondering
+#MEASUREMENTVAR= 31,  -8.5, graden, nulmeting helling na sondering
+#SPECIMENVAR=  1 ,   0.00, m, zand
+#TESTID= A9-8.568-DKMP2008
+#REPORTCODE= GEF-DISS-Report,1,0,0
+#STARTDATE= 2011,04,27
+#STARTTIME= 10,12,01
+#OS= DOS
+#EOH=
+    0.00      1.219    0.31953
+    1.00      0.843    0.36122
+    2.00      0.742    0.36752
+    3.00      0.708    0.36843
+    4.00      0.686    0.36744
+    5.00      0.666    0.36545
+    6.00      0.652    0.36317
+    7.00      0.640    0.36073
+    8.00      0.631    0.35826
+    9.00      0.623    0.35578
+   10.00      0.614    0.35345
+   11.00      0.609    0.35125
+   12.00      0.602    0.34914
+   13.00      0.596    0.34714
+   14.00      0.591    0.34511
+   15.00      0.585    0.34321
+   16.00      0.580    0.34143
+   17.00      0.577    0.33971
+   18.00      0.574    0.33808
+   19.00      0.569    0.33643
+   20.00      0.565    0.33490
+   21.00      0.562    0.33343
+   22.00      0.560    0.33203
+   23.00      0.557    0.33064
+   24.00      0.555    0.32931
+   25.00      0.552    0.32800
+   26.00      0.552    0.32677
+   27.00      0.551    0.32549
+   28.00      0.549    0.32428
+   29.00      0.548    0.32311
+   30.00      0.545    0.32196
+   31.00      0.544    0.32084
+   32.00      0.542    0.31974
+   33.00      0.540    0.31865
+   34.00      0.541    0.31763
